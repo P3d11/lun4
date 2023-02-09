@@ -1,0 +1,10 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Luna0.1.moc3",
+		"Textures": [
+			"Luna0.1.1024/texture_00.png"
+		],
+		"DisplayInfo": "Luna0.1.cdi3.json"
+	}
+}
